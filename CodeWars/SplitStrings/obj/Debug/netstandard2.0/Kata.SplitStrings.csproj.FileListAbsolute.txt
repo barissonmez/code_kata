@@ -1,0 +1,8 @@
+D:\Training\code_kata\CodeWars\SplitStrings\bin\Debug\netstandard2.0\Kata.SplitStrings.deps.json
+D:\Training\code_kata\CodeWars\SplitStrings\bin\Debug\netstandard2.0\Kata.SplitStrings.dll
+D:\Training\code_kata\CodeWars\SplitStrings\bin\Debug\netstandard2.0\Kata.SplitStrings.pdb
+D:\Training\code_kata\CodeWars\SplitStrings\obj\Debug\netstandard2.0\Kata.SplitStrings.AssemblyInfoInputs.cache
+D:\Training\code_kata\CodeWars\SplitStrings\obj\Debug\netstandard2.0\Kata.SplitStrings.AssemblyInfo.cs
+D:\Training\code_kata\CodeWars\SplitStrings\obj\Debug\netstandard2.0\Kata.SplitStrings.csproj.CoreCompileInputs.cache
+D:\Training\code_kata\CodeWars\SplitStrings\obj\Debug\netstandard2.0\Kata.SplitStrings.dll
+D:\Training\code_kata\CodeWars\SplitStrings\obj\Debug\netstandard2.0\Kata.SplitStrings.pdb
