@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.SplitStrings", "SplitStrings\Kata.SplitStrings.csproj", "{35B8B2FA-070C-4DEC-8658-37EE28622CB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata.SplitStrings", "Kata.SplitStrings\Kata.SplitStrings.csproj", "{35B8B2FA-070C-4DEC-8658-37EE28622CB5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SplitStrings", "SplitStrings", "{D1E0E585-BAE9-4DE8-8ADC-B02A2CBDC887}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.SplitStrings", "Test.SplitStrings\Test.SplitStrings.csproj", "{8BC50683-4243-4A62-9221-0638C3851D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.SplitStrings", "Test.SplitStrings\Test.SplitStrings.csproj", "{8BC50683-4243-4A62-9221-0638C3851D97}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YourOrderPlase", "YourOrderPlase", "{C0C8B0A6-A2B6-46D8-B98A-6D6D01E02261}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata.YourOrderPlease", "Kata.YourOrderPlease\Kata.YourOrderPlease.csproj", "{4DC28B7A-2699-4AF0-9A19-330E7CC98FDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.YourOrderPlease", "Test.YourOrderPlease\Test.YourOrderPlease.csproj", "{69E5F04D-FF95-4192-A45B-9E738F19C0F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SplitStrings", "SplitStrings", "{FBB0E72C-08BB-47C4-8625-1BDB02AF632D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,13 +29,23 @@ Global
 		{8BC50683-4243-4A62-9221-0638C3851D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BC50683-4243-4A62-9221-0638C3851D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BC50683-4243-4A62-9221-0638C3851D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC28B7A-2699-4AF0-9A19-330E7CC98FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC28B7A-2699-4AF0-9A19-330E7CC98FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC28B7A-2699-4AF0-9A19-330E7CC98FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC28B7A-2699-4AF0-9A19-330E7CC98FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E5F04D-FF95-4192-A45B-9E738F19C0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E5F04D-FF95-4192-A45B-9E738F19C0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E5F04D-FF95-4192-A45B-9E738F19C0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E5F04D-FF95-4192-A45B-9E738F19C0F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{35B8B2FA-070C-4DEC-8658-37EE28622CB5} = {D1E0E585-BAE9-4DE8-8ADC-B02A2CBDC887}
-		{8BC50683-4243-4A62-9221-0638C3851D97} = {D1E0E585-BAE9-4DE8-8ADC-B02A2CBDC887}
+		{35B8B2FA-070C-4DEC-8658-37EE28622CB5} = {FBB0E72C-08BB-47C4-8625-1BDB02AF632D}
+		{8BC50683-4243-4A62-9221-0638C3851D97} = {FBB0E72C-08BB-47C4-8625-1BDB02AF632D}
+		{4DC28B7A-2699-4AF0-9A19-330E7CC98FDE} = {C0C8B0A6-A2B6-46D8-B98A-6D6D01E02261}
+		{69E5F04D-FF95-4192-A45B-9E738F19C0F4} = {C0C8B0A6-A2B6-46D8-B98A-6D6D01E02261}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D21A2818-183D-4DE5-BAA2-25902F0956D8}

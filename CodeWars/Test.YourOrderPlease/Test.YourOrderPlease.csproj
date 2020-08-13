@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kata.SplitStrings\Kata.SplitStrings.csproj" />
+    <ProjectReference Include="..\Kata.YourOrderPlease\Kata.YourOrderPlease.csproj" />
   </ItemGroup>
 
 </Project>
